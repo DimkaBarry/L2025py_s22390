@@ -1,0 +1,6 @@
+Statystyki sekwencji: 2
+A: 29.9%
+C: 28.0%
+G: 20.7%
+T: 21.3%
+%CG: 48.8%
